@@ -1,0 +1,8 @@
+NTFSDIAG.R4X provenance
+=======================
+
+Fachliche Quelle: Commit 259cbfac272c47ac1a7828de973512d17b29ae10,
+Pfad Code/System/Diagnostics/NtfsDiag.
+
+In 0.64.18 wurden Source und Manifest unveraendert uebernommen. Neu sind nur
+Paketpin, Dokumentation, Buildstarter, Settings und Git-Hygiene.
